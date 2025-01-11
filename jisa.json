@@ -1,0 +1,264 @@
+{
+    "kr": {
+        "country": "kr",
+        "language": "ko",
+        "locale": "ko-KR",
+        "domain": "com",
+        "version": "new",
+        "easyjoin": true,
+        "easybuy": true,
+        "name": "대한민국(South Korea)"
+    },
+    "us": {
+        "country": "us",
+        "language": "en",
+        "locale": "en-US",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "USA"
+    },
+    "jp": {
+        "country": "jp",
+        "language": "ja",
+        "locale": "ja-JP",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "日本(Japan)"
+    },
+    "ca": {
+        "country": "ca",
+        "language": "en",
+        "locale": "en-CA",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Canada"
+    },
+    "tw": {
+        "country": "tw",
+        "language": "zh",
+        "locale": "zh-TW",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "臺灣地區(Taiwan)"
+    },
+    "sg": {
+        "country": "sg",
+        "language": "en",
+        "locale": "en-SG",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Singapore"
+    },
+    "kh": {
+        "country": "kh",
+        "language": "km",
+        "locale": "km-KH",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "ព្រះរាជាណាចក្រកម្ពុជា(Cambodia)"
+    },
+    "ph": {
+        "country": "ph",
+        "language": "en",
+        "locale": "en-PH",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Philippines"
+    },
+    "my": {
+        "country": "my",
+        "language": "ms",
+        "locale": "ms-MY",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Malaysia"
+    },
+    "mx": {
+        "country": "mx",
+        "language": "es",
+        "locale": "es-MX",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Mexico"
+    },
+    "th": {
+        "country": "th",
+        "language": "th",
+        "locale": "th-TH",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "ราชอาณาจักรไทย(Thailand)"
+    },
+    "au": {
+        "country": "au",
+        "language": "en",
+        "locale": "en-AU",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Australia"
+    },
+    "id": {
+        "country": "id",
+        "language": "id",
+        "locale": "id-ID",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Indonesia"
+    },
+    "ru": {
+        "country": "ru",
+        "language": "ru",
+        "locale": "ru-RU",
+        "domain": "ru",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Российская(Russia)"
+    },
+    "co": {
+        "country": "co",
+        "language": "es",
+        "locale": "es-CO",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Colombia"
+    },
+    "hk": {
+        "country": "hk",
+        "language": "zh",
+        "locale": "zh-HK",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "港澳地區(Hong Kong)"
+    },
+    "in": {
+        "country": "in",
+        "language": "en",
+        "locale": "en-IN",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "India"
+    },
+    "nz": {
+        "country": "nz",
+        "language": "en",
+        "locale": "en-NZ",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "New Zealand"
+    },
+    "tr": {
+        "country": "tr",
+        "language": "tr",
+        "locale": "tr-TR",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Türkiye"
+    },
+    "uk": {
+        "country": "uk",
+        "language": "en",
+        "locale": "en-GB",
+        "domain": "uk",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "United Kingdom"
+    },
+    "kz": {
+        "country": "kz",
+        "language": "kk",
+        "locale": "kk-KZ",
+        "domain": "kz",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Қазақстан / Казахстан(Kazakhstan)"
+    },
+    "kg": {
+        "country": "kg",
+        "language": "ky",
+        "locale": "ky-KG",
+        "domain": "kg",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Кыргыз / Кыргызская(Kyrgyzstan)"
+    },
+    "mn": {
+        "country": "mn",
+        "language": "mn",
+        "locale": "mn-MN",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Mongolia"
+    },
+    "br": {
+        "country": "br",
+        "language": "pt",
+        "locale": "pt-BR",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Brasil(Brazil)"
+    },
+    "uz": {
+        "country": "uz",
+        "language": "uz",
+        "locale": "uz-UZ",
+        "domain": "uz",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "O'Zbekiston / Ўзбекистон(Uzbekistan)"
+    },
+    "eu": {
+        "country": "eu",
+        "language": "de",
+        "locale": "de-DE",
+        "domain": "com",
+        "version": "old",
+        "easyjoin": true,
+        "easybuy": false,
+        "name": "Europe"
+    }
+}
+
+
