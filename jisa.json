@@ -14,7 +14,7 @@
         "language": "en",
         "locale": "en-US",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "USA"
@@ -24,7 +24,7 @@
         "language": "ja",
         "locale": "ja-JP",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "日本(Japan)"
@@ -34,7 +34,7 @@
         "language": "en",
         "locale": "en-CA",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Canada"
@@ -44,7 +44,7 @@
         "language": "zh",
         "locale": "zh-TW",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "臺灣地區(Taiwan)"
@@ -54,7 +54,7 @@
         "language": "en",
         "locale": "en-SG",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Singapore"
@@ -64,7 +64,7 @@
         "language": "km",
         "locale": "km-KH",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "ព្រះរាជាណាចក្រកម្ពុជា(Cambodia)"
@@ -74,7 +74,7 @@
         "language": "en",
         "locale": "en-PH",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Philippines"
@@ -84,7 +84,7 @@
         "language": "ms",
         "locale": "ms-MY",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Malaysia"
@@ -94,7 +94,7 @@
         "language": "es",
         "locale": "es-MX",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Mexico"
@@ -104,7 +104,7 @@
         "language": "th",
         "locale": "th-TH",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "ราชอาณาจักรไทย(Thailand)"
@@ -114,7 +114,7 @@
         "language": "en",
         "locale": "en-AU",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Australia"
@@ -124,7 +124,7 @@
         "language": "id",
         "locale": "id-ID",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Indonesia"
@@ -134,7 +134,7 @@
         "language": "ru",
         "locale": "ru-RU",
         "domain": "ru",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Российская(Russia)"
@@ -144,7 +144,7 @@
         "language": "es",
         "locale": "es-CO",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Colombia"
@@ -154,7 +154,7 @@
         "language": "zh",
         "locale": "zh-HK",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "港澳地區(Hong Kong)"
@@ -164,7 +164,7 @@
         "language": "en",
         "locale": "en-IN",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "India"
@@ -174,7 +174,7 @@
         "language": "en",
         "locale": "en-NZ",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "New Zealand"
@@ -184,7 +184,7 @@
         "language": "tr",
         "locale": "tr-TR",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Türkiye"
@@ -194,7 +194,7 @@
         "language": "en",
         "locale": "en-GB",
         "domain": "uk",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "United Kingdom"
@@ -204,7 +204,7 @@
         "language": "kk",
         "locale": "kk-KZ",
         "domain": "kz",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Қазақстан / Казахстан(Kazakhstan)"
@@ -214,7 +214,7 @@
         "language": "ky",
         "locale": "ky-KG",
         "domain": "kg",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Кыргыз / Кыргызская(Kyrgyzstan)"
@@ -224,7 +224,7 @@
         "language": "mn",
         "locale": "mn-MN",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Mongolia"
@@ -234,7 +234,7 @@
         "language": "pt",
         "locale": "pt-BR",
         "domain": "com",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "Brasil(Brazil)"
@@ -244,7 +244,7 @@
         "language": "uz",
         "locale": "uz-UZ",
         "domain": "uz",
-        "version": "old",
+        "version": "global",
         "easyjoin": true,
         "easybuy": false,
         "name": "O'Zbekiston / Ўзбекистон(Uzbekistan)"
@@ -254,7 +254,7 @@
         "language": "de",
         "locale": "de-DE",
         "domain": "com",
-        "version": "old",
+        "version": "new",
         "easyjoin": true,
         "easybuy": false,
         "name": "Europe"
