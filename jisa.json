@@ -15,8 +15,9 @@
         "locale": "en-US",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
-        "easybuy": false,
+        "easybuy": true,
         "name": "USA"
     },
     "jp": {
@@ -25,6 +26,7 @@
         "locale": "ja-JP",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "日本(Japan)"
@@ -35,6 +37,7 @@
         "locale": "en-CA",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "Canada"
@@ -45,6 +48,7 @@
         "locale": "zh-TW",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "臺灣地區(Taiwan)"
@@ -55,8 +59,9 @@
         "locale": "en-SG",
         "domain": "com",
         "version": "global",
+        "imageUrl": "https://image.atomy.com/SG/goods/S00001/org/715/241114000029715.jpeg?w=600&h=600",
         "easyjoin": true,
-        "easybuy": false,
+        "easybuy": true,
         "name": "Singapore"
     },
     "kh": {
@@ -65,6 +70,7 @@
         "locale": "km-KH",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "ព្រះរាជាណាចក្រកម្ពុជា(Cambodia)"
@@ -74,7 +80,8 @@
         "language": "en",
         "locale": "en-PH",
         "domain": "com",
-        "version": "global",
+        "version": "old",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "Philippines"
@@ -85,6 +92,7 @@
         "locale": "ms-MY",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "Malaysia"
@@ -95,6 +103,7 @@
         "locale": "es-MX",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "Mexico"
@@ -105,6 +114,7 @@
         "locale": "th-TH",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "ราชอาณาจักรไทย(Thailand)"
@@ -115,6 +125,7 @@
         "locale": "en-AU",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "Australia"
@@ -125,6 +136,7 @@
         "locale": "id-ID",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "Indonesia"
@@ -135,6 +147,7 @@
         "locale": "ru-RU",
         "domain": "ru",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "Российская(Russia)"
@@ -145,6 +158,7 @@
         "locale": "es-CO",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "Colombia"
@@ -155,6 +169,7 @@
         "locale": "zh-HK",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "港澳地區(Hong Kong)"
@@ -165,6 +180,7 @@
         "locale": "en-IN",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "India"
@@ -175,6 +191,7 @@
         "locale": "en-NZ",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "New Zealand"
@@ -185,6 +202,7 @@
         "locale": "tr-TR",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "Türkiye"
@@ -195,6 +213,7 @@
         "locale": "en-GB",
         "domain": "uk",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "United Kingdom"
@@ -205,6 +224,7 @@
         "locale": "kk-KZ",
         "domain": "kz",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "Қазақстан / Казахстан(Kazakhstan)"
@@ -215,6 +235,7 @@
         "locale": "ky-KG",
         "domain": "kg",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "Кыргыз / Кыргызская(Kyrgyzstan)"
@@ -225,6 +246,7 @@
         "locale": "mn-MN",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "Mongolia"
@@ -235,6 +257,7 @@
         "locale": "pt-BR",
         "domain": "com",
         "version": "global",
+        "imageUrl": "http://static.atomy.com/external",
         "easyjoin": true,
         "easybuy": false,
         "name": "Brasil(Brazil)"
@@ -244,7 +267,7 @@
         "language": "uz",
         "locale": "uz-UZ",
         "domain": "uz",
-        "version": "global",
+        "version": "old",
         "easyjoin": true,
         "easybuy": false,
         "name": "O'Zbekiston / Ўзбекистон(Uzbekistan)"
