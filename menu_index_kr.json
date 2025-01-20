@@ -1,0 +1,38 @@
+[
+    { 
+        "label": "큐레이터",
+        "component": "Curator"
+    },
+    { 
+        "label": "간편가입",
+        "component": "Easyjoin"
+    },
+    { 
+        "label": "2025 설 명절관",
+        "component": "Promo"
+    },
+    { 
+        "label": "간편구매 몰",
+        "component": "Easybuy"
+    },
+    { 
+        "label": "애터미TV",
+        "component": "TV"
+    },
+    { 
+        "label": "애터미세미나",
+        "component": "Seminar"
+    },
+    { 
+        "label": "마케팅플랜",
+        "component": "Marketing"
+    },
+    { 
+        "label": "애터미 회사소개",
+        "component": "Atomy"
+    },
+    { 
+        "label": "O²@",
+        "component": "O2at"
+    }
+]
