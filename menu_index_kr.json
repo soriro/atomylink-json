@@ -3,6 +3,7 @@
         "label": "큐레이터",
         "imageType": "icon",   
         "imageUrl": "https://image.atomy.com/JP/goods/J90948/org/638/241203000031638.jpg?w=610&h=610", 
+        "componentName" : "Curator",
         "component": {
             "name": "curator",
             "apiAction": false
@@ -12,6 +13,7 @@
         "label": "간편가입",
         "imageType": "icon",   
         "imageUrl": "https://resources.atomy.com/20250121142934/fo/images/common/CI-white.svg",
+        "componentName" : "Easyjoin",
         "component": {
             "name": "easyjoin",
             "apiAction": false
@@ -21,6 +23,7 @@
         "label": "2025 설 명절관",
         "imageType": "fullImage",   
         "imageUrl": "https://image.atomy.com/JP/goods/J90948/org/638/241203000031638.jpg?w=610&h=610",
+        "componentName" : "Component",
         "component": {
             "name": "promo",
             "apiAction": "index_easybuy_action"
@@ -28,7 +31,11 @@
     },
     { 
         "label": "간편구매 몰",
-        "component": "Easybuy"
+        "componentName" : "Easybuy",
+        "component": {
+            "name": "eaeybuy",
+            "apiAction": "index_easybuy_action"
+        }
     },
     { 
         "label": "애터미TV",
