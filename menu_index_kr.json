@@ -31,7 +31,7 @@
     },
     { 
         "label": "간편구매 몰",
-        "componentName" : "Easybuy",
+        "componentName" : "Component",
         "component": {
             "name": "eaeybuy",
             "apiAction": "index_easybuy_action"
