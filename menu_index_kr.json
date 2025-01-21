@@ -26,7 +26,7 @@
         "componentName" : "Component",
         "component": {
             "name": "promo",
-            "apiAction": "index_easybuy_action"
+            "apiAction": "index_promo_action"
         }
     },
     { 
