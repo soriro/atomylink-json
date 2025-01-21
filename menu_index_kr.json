@@ -1,14 +1,20 @@
 [
     { 
         "label": "큐레이터",
+        "imageType": "icon",   
+        "imageUrl": "https://resources.atomy.com/20250121142934/fo/images/common/CI-white.svg", 
         "component": "Curator"
     },
     { 
         "label": "간편가입",
+        "imageType": "icon",   
+        "imageUrl": "https://resources.atomy.com/20250121142934/fo/images/common/CI-white.svg",
         "component": "Easyjoin"
     },
     { 
         "label": "2025 설 명절관",
+        "imageType": "fullImage",   
+        "imageUrl": "https://resources.atomy.com/20250121142934/fo/images/common/CI-white.svg",
         "component": "Promo"
     },
     { 
