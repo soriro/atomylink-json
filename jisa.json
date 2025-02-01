@@ -15,7 +15,7 @@
         "locale": "en-US",
         "domain": "com",
         "version": "global",
-        "easyjoin": false,
+        "easyjoin": true,
         "easybuy": true,
         "name": "USA"
     },
