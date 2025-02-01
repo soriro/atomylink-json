@@ -21,7 +21,7 @@
     },
     "jp": {
         "country": "jp",
-        "language": "ja",
+        "language": ["ja"],
         "locale": "ja-JP",
         "domain": "com",
         "version": "old",
@@ -32,7 +32,7 @@
     },
     "ca": {
         "country": "ca",
-        "language": "en",
+        "language": ["en"],
         "locale": "en-CA",
         "domain": "com",
         "version": "global",
@@ -42,7 +42,7 @@
     },
     "tw": {
         "country": "tw",
-        "language": "zh",
+        "language": ["zh"],
         "locale": "zh-TW",
         "domain": "com",
         "version": "global",
@@ -52,7 +52,7 @@
     },
     "sg": {
         "country": "sg",
-        "language": "en",
+        "language": ["en"],
         "locale": "en-SG",
         "domain": "com",
         "version": "global",
@@ -62,7 +62,7 @@
     },
     "kh": {
         "country": "kh",
-        "language": "km",
+        "language": ["km"],
         "locale": "km-KH",
         "domain": "com",
         "version": "old",
@@ -73,7 +73,7 @@
     },
     "ph": {
         "country": "ph",
-        "language": "en",
+        "language": ["en"],
         "locale": "en-PH",
         "domain": "com",
         "version": "old",
@@ -84,7 +84,7 @@
     },
     "my": {
         "country": "my",
-        "language": "ms",
+        "language":["ms"],
         "locale": "ms-MY",
         "domain": "com",
         "version": "global",
@@ -94,7 +94,7 @@
     },
     "mx": {
         "country": "mx",
-        "language": "es",
+        "language": ["es"],
         "locale": "es-MX",
         "domain": "com",
         "version": "old",
@@ -105,7 +105,7 @@
     },
     "th": {
         "country": "th",
-        "language": "th",
+        "language":["th"],
         "locale": "th-TH",
         "domain": "com",
         "version": "old",
@@ -116,7 +116,7 @@
     },
     "au": {
         "country": "au",
-        "language": "en",
+        "language": ["en"],
         "locale": "en-AU",
         "domain": "com",
         "version": "old",
@@ -127,7 +127,7 @@
     },
     "id": {
         "country": "id",
-        "language": "id",
+        "language": ["id"],
         "locale": "id-ID",
         "domain": "com",
         "version": "global",
@@ -137,7 +137,7 @@
     },
     "ru": {
         "country": "ru",
-        "language": "ru",
+        "language":["ru"],
         "locale": "ru-RU",
         "domain": "ru",
         "version": "old",
@@ -148,7 +148,7 @@
     },
     "co": {
         "country": "co",
-        "language": "es",
+        "language": ["es"],
         "locale": "es-CO",
         "domain": "com",
         "version": "old",
@@ -159,7 +159,7 @@
     },
     "hk": {
         "country": "hk",
-        "language": "zh",
+        "language": ["zh"],
         "locale": "zh-HK",
         "domain": "com",
         "version": "global",
@@ -169,7 +169,7 @@
     },
     "in": {
         "country": "in",
-        "language": "en",
+        "language": ["en"],
         "locale": "en-IN",
         "domain": "com",
         "version": "old",
@@ -180,7 +180,7 @@
     },
     "nz": {
         "country": "nz",
-        "language": "en",
+        "language":["en"],
         "locale": "en-NZ",
         "domain": "com",
         "version": "old",
@@ -190,7 +190,7 @@
     },
     "tr": {
         "country": "tr",
-        "language": "tr",
+        "language": ["tr"],
         "locale": "tr-TR",
         "domain": "com",
         "version": "old",
@@ -200,7 +200,7 @@
     },
     "uk": {
         "country": "uk",
-        "language": "en",
+        "language": ["en"],
         "locale": "en-GB",
         "domain": "uk",
         "version": "old",
@@ -210,7 +210,7 @@
     },
     "kz": {
         "country": "kz",
-        "language": "kk",
+        "language": ["kk"],
         "locale": "kk-KZ",
         "domain": "kz",
         "version": "old",
@@ -220,7 +220,7 @@
     },
     "kg": {
         "country": "kg",
-        "language": "ky",
+        "language": ["ky"],
         "locale": "ky-KG",
         "domain": "kg",
         "version": "old",
@@ -230,7 +230,7 @@
     },
     "mn": {
         "country": "mn",
-        "language": "mn",
+        "language": ["mn"],
         "locale": "mn-MN",
         "domain": "com",
         "version": "old",
@@ -240,7 +240,7 @@
     },
     "br": {
         "country": "br",
-        "language": "pt",
+        "language": ["pt"],
         "locale": "pt-BR",
         "domain": "com",
         "version": "old",
@@ -250,7 +250,7 @@
     },
     "uz": {
         "country": "uz",
-        "language": "uz",
+        "language": ["uz"],
         "locale": "uz-UZ",
         "domain": "uz",
         "version": "old",
@@ -260,7 +260,7 @@
     },
     "eu": {
         "country": "eu",
-        "language": "de",
+        "language":["de", "en", "es"],
         "locale": "de-DE",
         "domain": "com",
         "version": "new",
