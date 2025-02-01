@@ -11,11 +11,11 @@
     },
     "us": {
         "country": "us",
-        "language": "en",
+        "language": ["en", "es"],
         "locale": "en-US",
         "domain": "com",
         "version": "global",
-        "easyjoin": true,
+        "easyjoin": false,
         "easybuy": true,
         "name": "USA"
     },
