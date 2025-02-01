@@ -1,7 +1,7 @@
 {
     "kr": {
         "country": "kr",
-        "language": "ko",
+        "language": ["ko", "en"],
         "locale": "ko-KR",
         "domain": "com",
         "version": "new",
