@@ -1,36 +1,52 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello Page</title>
+    <title>Document</title>
     <style>
         body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
             margin: 0;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 0;
         }
-        .container {
-            text-align: center;
-            background: white;
-            padding: 50px;
-            border-radius: 10px;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+        .menu {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 250px;
+            height: 100%;
+            background-color: #333;
+            color: white;
+            padding: 15px;
+            box-shadow: 2px 0 5px rgba(0,0,0,0.5);
         }
-        h1 {
-            color: #333;
-            margin: 0;
-            font-size: 48px;
+        .menu.active {
+            display: block;
+        }
+        .hamburger {
+            cursor: pointer;
+            font-size: 24px;
+            padding: 10px;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Hello 👋</h1>
+    <div class="hamburger" onclick="toggleMenu()">☰</div>
+    <div class="menu" id="slideMenu">
+        <h2>Menu</h2>
+        <p><a href="#">Link 1</a></p>
+        <p><a href="#">Link 2</a></p>
+        <p><a href="#">Link 3</a></p>
+        <p><a href="#" onclick="toggleMenu()">Close</a></p>
     </div>
+    <script>
+        function toggleMenu() {
+            const menu = document.getElementById('slideMenu');
+            menu.classList.toggle('active');
+        }
+    </script>
 </body>
 </html>
