@@ -1,5 +1,9 @@
 {
     "weather" : {
         "snow" : false
+    },
+    "background": {
+        "image" : "https://ch.static.atomy.com/2026/02/03/2986c85688ea4e0382f37f9ce46ff4bb.jpg",
+        "youtube_id" : "Eg3p42E6z7w"
     }
 }
