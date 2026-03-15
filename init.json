@@ -11,5 +11,12 @@
             "image" : "https://img.youtube.com/vi/nqtxqhVz8CE/sddefault.jpg",
             "youtube_id" : "nqtxqhVz8CE"
         }
+    ],
+    "jisa" : [
+        "all",
+        "kr",
+        "us",
+        "ca",
+        "jp"
     ]
 }
